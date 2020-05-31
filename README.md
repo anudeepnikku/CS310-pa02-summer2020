@@ -29,16 +29,16 @@ Options:
 
 ## Introduction and Definitions
 
-The following code is provided to you. There are five java files: PA02.java, DynamicArray.java, LinkedList.java, Record.java, and TreeDictionary.java. 
+The following code is provided to you. There are five java files: cs310pa2.java, DynamicArray.java, LinkedList.java, Record.java, and TreeDictionary.java. 
 
 Note, we use an external library called **json-simple-1.1.1.jar**. Therefore, to compile the code from command line, you need:
 ```
-javac -cp .:json-simple-1.1.1.jar PA02.java
+javac -cp .:json-simple-1.1.1.jar cs310pa2.java
 ```
 
 To run the code, you need:
 ```
-java -cp .:json-simple-1.1.1.jar  PA02 -name name -keyword moves -max 10 json/pokemon.json
+java -cp .:json-simple-1.1.1.jar  cs310pa2 -name name -keyword moves -max 10 json/pokemon.json
 ```
 
 A script, called ["run"](./run), is provided to help you compile and run the examples. 
