@@ -1,4 +1,4 @@
-| => javac -cp .:json-simple-1.1.1.jar PA02.java; java -cp .:json-simple-1.1.1.jar  PA02 -name title -keyword actors  json/movies.json
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar cs310pa2 -name title -keyword actors  json/movies.json
 Welcome to CS310 PA02: Tree Dictionary
 Read 369 records from json/movies.json
 Options:
