@@ -87,10 +87,9 @@ You should complete the provided README.txt and submit it with the rest of the c
 5. Change any given methods and data prototype
 
 ## Submission Instructions
-- Use the cloud or some other server to backup your code!
-- Remove all test files, jar files, class files, etc.
-- You should just submit your java files and your readme.txt
-- Zip your user folder (not just the files) and name the zip “username-p2.zip” (no other type of archive) where “username” is your username.
+- Use the cloud drive or some other server to backup your code!
+- Remove all class files.
+- Zip your user folder (not just the files) and name the zip “username-p2.zip” (no other type of archive) where “username” is your GMU username.
 - Submit to blackboard.
 
 ## Grading Rubric
