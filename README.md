@@ -106,11 +106,11 @@ See rubrics under [Tasks](#tasks)
 - Code that would win an obfuscated code competition with the rest of CS310 students.
 
 ### How will my assignment be graded?
-- You CANNOT get points (even style/manual-inspection points) for code that doesn't compile or for submitting just the files given to you with the assignment. You CAN get manual inspection points for code that (a) compiles and (b) is an "honest attempt" at the assignment, but does not pass any unit tests.
+- You CANNOT get points (even style/manual-inspection points) for code that doesn't compile or for submitting just the files given to you with the assignment. 
 
 - Grading will be divided into the following portions:
   1. Manual/Automatic Testing (90%): To assess the correctness of programs by matching the outputs to the solution outputs.
-  2. Manual Code Inspection (Optional): If your code failed more than 3 out of 10 tests above, you may request a manual inspection and you will be graded based on the points assigned to each task. If you request a manual inspection, you can no longer use the score you get from "Manual/Automatic Testing";
+  2. Manual Code Inspection (Optional):  If your code failed more than 3 out of 10 tests above, you may request a manual inspection and you will be graded based on the points assigned to each task. If you request a manual inspection, you can no longer use the score you get from "Manual/Automatic Testing"; To use this grade, your code  (a) must compile and (b) is an "honest attempt" at the assignment.
   3. Coding Style: Manual Code Inspection Rubric (10% "off the top" points)
   
 Inspection Point | Points | High (all points) | Med (1/2 points) | Low (no points)
