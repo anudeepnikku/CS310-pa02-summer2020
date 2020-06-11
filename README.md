@@ -112,6 +112,7 @@ See rubrics under [Tasks](#tasks)
   1. Manual/Automatic Testing (90%): To assess the correctness of programs by matching the outputs to the solution outputs.
   2. Manual Code Inspection (Optional): If your code failed more than 3 out of 10 tests above, you may request a manual inspection and you will be graded based on the points assigned to each task. If you request a manual inspection, you can no longer use the score you get from "Manual/Automatic Testing";
   3. Coding Style: Manual Code Inspection Rubric (10% "off the top" points)
+  
 Inspection Point | Points | High (all points) | Med (1/2 points) | Low (no points)
 :---: | :---: | :--- | :--- | :--- 
 Submission Format (Folder Structure) |  2 |  Code is in a folder which in turn is in a zip file. Folder is correctly named. | Code is not directly in user folder, but in a sub-folder. Folder name is correct or close to correct. | Code is directly in the zip file (no folder) and/or folder name is incorrect.
