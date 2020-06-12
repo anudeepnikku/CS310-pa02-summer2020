@@ -50,7 +50,8 @@ A script, called ["run"](./run), is provided to help you compile and run the exa
 These are the only files you should modify to finish the code. You are recommended to finish them in the given order below.
 - _DynamicArray.java_, 15 points 
 - _LinkedList.java_, 20 points 
-- _TreeDictionary.java_, 60 points and 20 bonus points
+- _TreeDictionary.java_, 60 points and 10x2 bonus points; 
+	- Bonus points cannot be earned partially, i.e., either full points or no points.
 
 See the commends in these java files for detail. 
 
@@ -61,10 +62,12 @@ You should complete the provided README.txt and submit it with the rest of the c
 
 - [Example with 12 Pokemons](examples/pokemon-01.txt)
 - [Example with 124 Pokemons](examples/pokemon-02.txt)
-- [Example with 12 movies with genres](examples/movie-genre-01.txt)
-- [Example with 369 movies with genres](examples/movie-genre-02.txt)
-- [Example with 12 movies with actors](examples/movie-actors-01.txt)
-- [Example with 369 movies with actors](examples/movie-actors-02.txt)
+- [Example with 12 movies using genres](examples/movie-genre-01.txt)
+- [Example with 369 movies using genres](examples/movie-genre-02.txt)
+- [Example with 12 movies using actors](examples/movie-actors-01.txt)
+- [Example with 369 movies using actors](examples/movie-actors-02.txt)
+- [Example with Animal Crossing](examples/animal-crossing.txt)
+- [Example with Tech Books](examples/tech-book.txt)
 
 ## Rules
 
