@@ -50,7 +50,8 @@ A script, called ["run"](./run), is provided to help you compile and run the exa
 These are the only files you should modify to finish the code. You are recommended to finish them in the given order below.
 - _DynamicArray.java_, 15 points 
 - _LinkedList.java_, 20 points 
-- _TreeDictionary.java_, 60 points and 10x2 bonus points; Bonus points cannot be earned partially. Either full points or no points.
+- _TreeDictionary.java_, 60 points and 10x2 bonus points; 
+	- Bonus points cannot be earned partially, i.e., either full points or no points.
 
 See the commends in these java files for detail. 
 
