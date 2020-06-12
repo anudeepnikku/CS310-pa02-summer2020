@@ -2,7 +2,7 @@
 Self Evaluation
 --------------------------------------
 
-This is 5% of you assignment
+This Readme.txt is 5% of you assignment
 
 1. Name:
 
@@ -12,25 +12,25 @@ This is 5% of you assignment
 
 4. Self evaluation
 
-  Task 1. (50%):
+  Task 1. DynamicArray.java (15%):
       1. tasks are implemented
       2. tasks are attempted but did not finish
       3. tasks are left without trying
       4. what are the known bugs?
 
-  Task 2. (15%):
+  Task 2. LinkedList.java (20%):
       1. tasks are implemented
       2. tasks are attempted but did not finish
       3. tasks are left without trying
       4. what are the known bugs?
 
-  Task 3. (25%):
+  Task 3. TreeDictionary.java (60%):
       1. tasks are implemented
       2. tasks are attempted but did not finish
       3. tasks are left without trying
       4. what are the known bugs?
 
-  Task 4. (5%):
+  Task 4. Bonus in TreeDictionary.java (20%):
       1. tasks are implemented
       2. tasks are attempted but did not finish
       3. tasks are left without trying
