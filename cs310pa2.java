@@ -68,17 +68,37 @@ class cs310pa2
       for (Object o : json)
       {
         JSONObject r = (JSONObject) o;
-        JSONArray keywords = (JSONArray) r.get(keyword);
         Record<String> record=new Record<String>();
         record.Name=(String) r.get(name);
-        for (Object k : keywords)
-        {
-          record.Keywords.insert((String)k);
-        }//end for K
+
+        //get keywords
+        Object keyword_obj=r.get(keyword);
+
+        if(keyword_obj==null){
+          System.err.println("! Error: Keyword \""+keyword+"\" not found");
+          return false;
+        }
+
+        if(keyword_obj instanceof JSONArray){
+          JSONArray keywords = (JSONArray) r.get(keyword);
+          for (Object k : keywords)
+          {
+            record.Keywords.insert((String)k);
+          }//end for K
+        }
+        else if(keyword_obj instanceof String){
+          record.Keywords.insert((String)keyword_obj);
+        }
+        else{
+          System.err.println("! Error: Unknown keyword type: "+keyword_obj.getClass());
+          return false;
+        }
+
         records.insert(record);
 
         if(records.size()>=max_records) break; //too many records
       }//end for o
+
       System.out.println("Read "+records.size()+" records from "+filename);
     }
     catch(ParseException e) {
