@@ -67,7 +67,7 @@ You should complete the provided README.txt and submit it with the rest of the c
 - [Example with 12 movies using actors](examples/movie-actors-01.txt)
 - [Example with 369 movies using actors](examples/movie-actors-02.txt)
 - [Example with Animal Crossing](examples/animal-crossing.txt)
-- [Example with Tech Books](examples/tech-books.txt)
+- [Example with Tech Books](examples/tech-book.txt)
 
 ## Rules
 
