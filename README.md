@@ -62,10 +62,12 @@ You should complete the provided README.txt and submit it with the rest of the c
 
 - [Example with 12 Pokemons](examples/pokemon-01.txt)
 - [Example with 124 Pokemons](examples/pokemon-02.txt)
-- [Example with 12 movies with genres](examples/movie-genre-01.txt)
-- [Example with 369 movies with genres](examples/movie-genre-02.txt)
-- [Example with 12 movies with actors](examples/movie-actors-01.txt)
-- [Example with 369 movies with actors](examples/movie-actors-02.txt)
+- [Example with 12 movies using genres](examples/movie-genre-01.txt)
+- [Example with 369 movies using genres](examples/movie-genre-02.txt)
+- [Example with 12 movies using actors](examples/movie-actors-01.txt)
+- [Example with 369 movies using actors](examples/movie-actors-02.txt)
+- [Example with Animal Crossing](examples/animal-crossing.txt)
+- [Example with Tech Books](examples/tech-books.txt)
 
 ## Rules
 
